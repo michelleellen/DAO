@@ -5,6 +5,10 @@ the root DAO of the Decentralists
 - [meetings](/meetings)
 - [contributions](/contributions)
 
+Many projects have reached out over the years wanting to learn about what other projects are building in the ecosystem, identify collaborators and partners, and get connected. The challenge - there isn’t an easy way to do that, especially without spending time researching the ecosystem or having a personal contact who can help guide you. 
+
+This is the reason for building a Cosmos Inter-Fork directory as a way to help teams know what’s been forked, why, who is working on what and how to get in touch with them. If you are part of a project that is actively working on a project building on a fork of one of the repos, we’d love to add you to the directory. If you can take a minute to fill out the form we’ll be in touch soon. 
+
 ## TODO
 
 Everything is still in draft form.
